@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: local('PF Din Text Cond Pro Bold'), local('PFDinTextCondPro-Bold'),
+        url('../fonts/PFDinTextCondPro-Bold.woff2') format('woff2'),
+        url('../fonts/PFDinTextCondPro-Bold.woff') format('woff'),
+        url('../fonts/PFDinTextCondPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: local('PFDinTextCondPro-Thin'),
+        url('../fonts/PFDinTextCondPro-Thin.woff2') format('woff2'),
+        url('../fonts/PFDinTextCondPro-Thin.woff') format('woff'),
+        url('../fonts/PFDinTextCondPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: local('PFDinTextCondPro-Regular'),
+        url('../fonts/PFDinTextCondPro-Regular.woff2') format('woff2'),
+        url('../fonts/PFDinTextCondPro-Regular.woff') format('woff'),
+        url('../fonts/PFDinTextCondPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: local('PFDinTextCondPro-Medium'),
+        url('../fonts/PFDinTextCondPro-Medium.woff2') format('woff2'),
+        url('../fonts/PFDinTextCondPro-Medium.woff') format('woff'),
+        url('../fonts/PFDinTextCondPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: local('PFDinTextCondPro-Light'),
+        url('../fonts/PFDinTextCondPro-Light.woff2') format('woff2'),
+        url('../fonts/PFDinTextCondPro-Light.woff') format('woff'),
+        url('../fonts/PFDinTextCondPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
